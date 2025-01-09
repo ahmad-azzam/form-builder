@@ -1,4 +1,3 @@
-import Builder from "./page/builder";
 import TestBuild from "./page/test-build";
 
 const App = () => {
